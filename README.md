@@ -11,8 +11,7 @@ This library provides an easy way to configure, send, and receive data with the 
 - ✅ Supports ESP32 HardwareSerial (UART2 by default)  
 - ✅ Easy mode switching (Normal / Configuration)  
 - ✅ AUX pin monitoring for safe transmission timing  
-- ✅ Non-blocking APIs for sending and reading data  
-- ✅ Ready for FreeRTOS task-based operation  
+ 
 - ✅ Includes working examples  
 
 ---
@@ -45,3 +44,18 @@ This library provides an easy way to configure, send, and receive data with the 
 1. Download or clone this repository:
    ```bash
    git clone https://github.com/franfreezy/e220_400t22d-lora-library.git
+
+
+## 🧩 Important
+
+Use two E220 modules with matching addresses and channels for quick point-to-point LoRa testing.
+
+## 🧑‍💻 Author
+
+**Frandel**
+Co-Founder of Tethics Electrics Group
+
+🔗 Connect with me:
+
+💼 [LinkedIn](https://www.linkedin.com/in/frandel-wanjawa)  
+🌐 [Portfolio](franfreezy.github.io/DearestFW/)
